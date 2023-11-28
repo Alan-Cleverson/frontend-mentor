@@ -23,8 +23,8 @@ body {
 .filho{
     
     background: white;
-    width: 250px;
-    height: 400px;
+    max-width: 250px;
+    max-height: 400px;
     border-radius: 10px;
 }
 
